@@ -10,7 +10,7 @@ class Programm
         int y=2;
         double z = 3.5;
 
-        Console.WriteLine("Hello, World! uwu");
+        Console.WriteLine("Hello, World! another text");
     }
 }
 
